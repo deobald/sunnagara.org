@@ -4,5 +4,5 @@
 </iframe>
 
 <p>
-  <a href="http://umap.openstreetmap.fr/en/map/sunnagaraorg_382966">See full screen</a>
+  <a href="https://umap.openstreetmap.fr/en/map/sunnagaraorg_382966">See full screen</a>
 </p>
