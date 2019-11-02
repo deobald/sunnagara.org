@@ -4,6 +4,8 @@ To begin with, the Sunnagara Project will use a custom map from OpenStreetMap to
 
 The map can be found here: https://umap.openstreetmap.fr/en/map/sunnagaraorg_382966
 
+Quick centre on India: https://umap.openstreetmap.fr/en/map/sunnagaraorg_382966#5/21.244/83.353
+
 
 ### How to Contribute
 
