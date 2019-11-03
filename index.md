@@ -17,3 +17,9 @@
 <p>
   Sunnagara.org exists to document <em>Suññāgāra</em>, Silent Spaces, for the traveling meditator. Look up your location on our map to see if there is a Silent Space nearby where you can meditate.
 </p>
+
+<hr/>
+
+<p>
+  If you would like to contribute a location to the map, please read the <a href="https://github.com/deobald/sunnagara.org#how-to-contribute">"How to Contribute" section of the README</a> on Github.
+</p>
