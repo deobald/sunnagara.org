@@ -1,10 +1,10 @@
 
+<h1>Suññāgāra:</h1>
+<h2>an empty place, an uninhabited spot, solitude.</h2>
+
 <iframe width="100%" height="600px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.fr/en/map/sunnagaraorg_382966#5/17.799/85.891?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false">
 </iframe>
 
-<p>
-  Suññāgāra: an empty place, an uninhabited spot, solitude.
-</p>
 <p>
   <strong>Suñña</strong> (adj.) 1. empty, uninhabited; void.
 </p>
@@ -22,4 +22,8 @@
 
 <p>
   If you would like to contribute a location to the map, please read the <a href="https://github.com/deobald/sunnagara.org#how-to-contribute">"How to Contribute" section of the README</a> on Github.
+</p>
+
+<p>
+  The <a href="data/sunnagara_org.geojson">raw geojson</a> is available, if you would like a complete list of all the locations.
 </p>

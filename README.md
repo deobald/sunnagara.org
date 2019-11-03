@@ -24,8 +24,13 @@ Quick centre on India: https://umap.openstreetmap.fr/en/map/sunnagaraorg_382966#
 4. For now, please submit your location suggestion to my email address attached to my GitHub account.
 
 
-### TODO
+### TODO: Software Features
 
 - [ ] Build a system for automated submission of Silent Spaces
+- [ ] Parse the geojson and create a simple flat list of locations in the website
+
+
+### TODO: Locations to add
+
 - [x] Mahabodhi Temples, Bangalore
 - [x] Mahabodhi Temple, Chennai

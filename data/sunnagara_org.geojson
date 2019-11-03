@@ -1,0 +1,107 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "iconUrl": "☸"
+        },
+        "name": "Buddha Vihar Cox Town",
+        "description": "Open: Sundays 11:00-13:00\n\nA small Tibetan temple. There is a caretaker on the grounds who speaks English, Tamil, Hindi, and Kannada. The caretaker does not have the key to the temple and the laypeople and monks who open the temple on Sundays are not always on time.\n\nCushions and chairs are available inside."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.617692,
+          12.99742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "iconUrl": "☸"
+        },
+        "name": "Dhamma Hall",
+        "description": "Dhamma Hall for Vipassana students of S.N. Goenka. Group sitting times are 05:00-06:00 and 18:00-19:00 every day.\n\nThis location is directly related to Vipassana meditation as taught by S.N. Goenka."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.38231,
+          19.871732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "iconUrl": "☸"
+        },
+        "name": "International Buddhist Seminary",
+        "description": "Open: 06:00-12:00 and 16:00-20:00\n\nThe seminary has a large temple with ample space for sitting meditation. There are cushions available but no chairs. Enter from 9th Cross Road."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.576052,
+          13.014511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "iconUrl": "☸"
+        },
+        "name": "Maha Bodhi Society",
+        "description": "Open: 09:00-19:00\n\nThe Maha Bodhi Society has a large temple in the centre of the grounds. Remove your shoes to the right of the entrance and sign in if the guard requests. There are toilets to the right-hand side of the grounds; you can wear your shoes to walk to the toilets.\n\nInside the temple there are benches and cushions for meditation."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.580611,
+          12.978631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "iconUrl": "☸"
+        },
+        "name": "Maha Bodhi Society",
+        "description": "Open: Mo-Su 09:00-18:00\n\nThere is a large temple just inside the gate. There are usually police stationed outside or inside and you may need to explain that you are there for meditation. Sometimes monks will be inside the office. You can ask them for a mat to meditate on.\n\nThin bamboo mats and chairs are available."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.262375,
+          13.076276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "iconUrl": "☸"
+        },
+        "name": "Mintogang Temple",
+        "description": "Open: Mo-Su 05:30-06:30\n\nThis Bhutia temple is open for meditation from 05:30 to 06:30 every morning. The monk who opens the temple will perform a puja. Politely request permission to meditate in the temple. This will be easiest if you speak Bhutia or Hindi.\n\nThe entrance to the temple is around the northwest side, away from the road. If the monk has not opened it, it will be closed with a metal gate. Leave your shoes outside."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.503123,
+          27.363886
+        ]
+      }
+    }
+  ]
+}
