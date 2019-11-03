@@ -28,6 +28,7 @@ Quick centre on India: https://umap.openstreetmap.fr/en/map/sunnagaraorg_382966#
 
 - [ ] Build a system for automated submission of Silent Spaces
 - [ ] Parse the geojson and create a simple flat list of locations in the website
+- [ ] Fix "Center map on your location"
 
 
 ### TODO: Locations to add
