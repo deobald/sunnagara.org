@@ -1,8 +1,26 @@
+<link rel="apple-touch-icon" sizes="57x57" href="/favicon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/favicon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/favicon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/favicon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/favicon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/favicon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/favicon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/favicon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/favicon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
+<link rel="manifest" href="/favicon/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/favicon/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
 
 <h1>Suññāgāra: an empty place, an uninhabited spot, solitude.</h1>
 
 <iframe width="100%" height="600px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.fr/en/map/sunnagaraorg_382966#5/17.799/85.891?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false">
 </iframe>
+
 
 <h1>Meaning</h1>
 
@@ -35,7 +53,6 @@
   With the upcoming advent of serious widespread meditation practice among householders, the first two options are really not practical. Beyond the obvious impracticality of finding a forest to meditate in while one is traveling internationally for work, lay meditators should not meditate outdoors in public places, even if it was as common to stumble across a forest as it was 2500 years ago. Public meditation can breed self-importance and ego. It is best to meditate indoors, as unceremoniously as possible.
 </p>
 
-<hr/>
 
 <h1>Technical Details / How You Can Help</h1>
 

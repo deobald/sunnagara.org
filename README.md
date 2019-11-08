@@ -35,3 +35,8 @@ Quick centre on India: https://umap.openstreetmap.fr/en/map/sunnagaraorg_382966#
 
 - [x] Mahabodhi Temples, Bangalore
 - [x] Mahabodhi Temple, Chennai
+
+
+### Credit
+
+Favicon (SS-BY-4.0): https://www.svgrepo.com/svg/5448/street-map
