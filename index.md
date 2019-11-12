@@ -16,7 +16,7 @@
 <meta name="msapplication-TileImage" content="/favicon/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
 
-<h1>Suññāgāra: an empty place, an uninhabited spot, solitude.</h1>
+<h1>Suññāgāra: an empty room, an uninhabited spot, solitude.</h1>
 
 <iframe width="100%" height="600px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.fr/en/map/sunnagaraorg_382966#5/17.799/85.891?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false">
 </iframe>
@@ -28,13 +28,13 @@
   <strong>Suñña</strong> (adj.) 1. empty, uninhabited; void.
 </p>
 <p>
-  <strong>Agāra</strong> (nt.) 1. house or hut; a dwelling place.
+  <strong>Agāra</strong> (nt.) 1. house or hut; room, depot; a dwelling place.
 </p>
 
 <h1>What is this?</h1>
 
 <p>
-  Suññāgāra, शून्यगृह, शून्य घर, <a href="https://medium.com/siggu/silent-spaces-160d3a44fa3d">Silent Spaces</a>... these are all ways of saying "a place to meditate." When we are between our own homes and meditation centres, such places are not always easy to find. Sometimes a train station or an airport will have a meditation room. Sometimes, while traveling to a new city, we may check forums and maps for buildings where meditation is permitted or even encouraged. Often, though, these Silent Spaces are very difficult to find.
+  Suññāgāra, शून्यागार, <a href="https://medium.com/siggu/silent-spaces-160d3a44fa3d">Silent Spaces</a>... these are all ways of saying "a place to meditate." When we are between our own homes and meditation centres, such places are not always easy to find. Sometimes a bus depot, train station, or airport will have a meditation room. Sometimes, while traveling to a new city, we may check forums and maps for rooms and buildings where meditation is permitted or even encouraged. Often, though, these Silent Spaces are very difficult to find.
 </p>
 <p>
   Sunnagara.org exists to document <em>Suññāgāra</em>, Silent Spaces, for the traveling meditator. Look up your location on our map to see if there is a Silent Space nearby where you can meditate.
@@ -50,7 +50,7 @@
 </ol>
 
 <p>
-  With the upcoming advent of serious widespread meditation practice among householders, the first two options are really not practical. Beyond the obvious impracticality of finding a forest to meditate in while one is traveling internationally for work, lay meditators should not meditate outdoors in public places, even if it was as common to stumble across a forest as it was 2500 years ago. Public meditation can breed self-importance and ego. It is best to meditate indoors, as unceremoniously as possible.
+  With the upcoming advent of serious widespread meditation practice among householders, the first two options are really not practical. Beyond the obvious impracticality of finding a forest to meditate in while one is traveling internationally for work, lay meditators should not meditate outdoors in public places, even if it was as common to stumble across a city-adjacent forest as it was 2500 years ago. Public meditation can breed self-importance and ego. It is best to meditate indoors, as unceremoniously as possible.
 </p>
 
 
