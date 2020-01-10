@@ -16,7 +16,7 @@
 <meta name="msapplication-TileImage" content="/favicon/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
 
-<h1>Suññāgāra: an empty room, an uninhabited spot, solitude.</h1>
+<h1>Suññagara: an empty room, an uninhabited spot, solitude.</h1>
 
 <iframe width="100%" height="600px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.fr/en/map/sunnagaraorg_382966#5/17.799/85.891?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false">
 </iframe>
@@ -34,13 +34,13 @@
 <h1>What is this?</h1>
 
 <p>
-  Suññāgāra, शून्यागार, <a href="https://medium.com/siggu/silent-spaces-160d3a44fa3d">Silent Spaces</a>... these are all ways of saying "a place to meditate." When we are between our own homes and meditation centres, such places are not always easy to find. Sometimes a bus depot, train station, or airport will have a meditation room. Sometimes, while traveling to a new city, we may check forums and maps for rooms and buildings where meditation is permitted or even encouraged. Often, though, these Silent Spaces are very difficult to find.
+  Suññagara, शून्यागार, <a href="https://medium.com/siggu/silent-spaces-160d3a44fa3d">Silent Spaces</a>... these are all ways of saying "a place to meditate." When we are between our own homes and meditation centres, such places are not always easy to find. Sometimes a bus depot, train station, or airport will have a meditation room. Sometimes, while traveling to a new city, we may check forums and maps for rooms and buildings where meditation is permitted or even encouraged. Often, though, these Silent Spaces are very difficult to find.
 </p>
 <p>
-  Sunnagara.org exists to document <em>Suññāgāra</em>, Silent Spaces, for the traveling meditator. Look up your location on our map to see if there is a Silent Space nearby where you can meditate.
+  Sunnagara.org exists to document <em>Suññagara</em>, Silent Spaces, for the traveling meditator. Look up your location on our map to see if there is a Silent Space nearby where you can meditate.
 </p>
 <p>
-  <em>What exactly is a suññāgāra?</em> The Mahāsatipaṭṭhāna Sutta (Dīgha Nikāya 22: The Great Discourse on the Establishing of Mindfulness) describes three locations appropriate for meditation:
+  <em>What exactly is a suññagara?</em> The Mahāsatipaṭṭhāna Sutta (Dīgha Nikāya 22: The Great Discourse on the Establishing of Mindfulness) describes three locations appropriate for meditation:
   </p>
 
 <ol>
